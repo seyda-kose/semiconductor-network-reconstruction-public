@@ -10,5 +10,3 @@ The actual source code and datasets are currently hosted in a secure, private re
 
 **If you are a reviewer or editor:** 
 Please contact the corresponding author, or email at **koese@csh.ac.at**. I will immediately provide you with direct access to the private repository or send the files via a secure, anonymized method.
-
-Thank you for your interest in our work!
