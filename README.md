@@ -1,8 +1,8 @@
-# Code and Data for: [Reconstructing temporal multi-relational firm networks at scale using large language models. The case of the semiconductor industry]
+# Code and Data for: Reconstructing temporal multi-relational firm networks at scale using large language models. The case of the semiconductor industry
 
 **Status:** Submitted
 
-Welcome! This repository serves as the placeholder for the code, scripts, and data associated with the manuscript *"[Reconstructing temporal multi-relational firm networks at scale using large language models. The case of the semiconductor industry]"*.
+Welcome! This repository serves as the placeholder for the code, scripts, and data associated with the manuscript *"Reconstructing temporal multi-relational firm networks at scale using large language models. The case of the semiconductor industry"*.
 
 ## 🔒 Access During Peer Review
 
